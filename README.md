@@ -40,7 +40,22 @@ Contains:
 
 ---
 
-### 5️⃣ Handling-user-schema
+### 5️⃣ Handling-user-schema (extra folder)  
+Your personal work — not part of AWS tasks.  
+You can remove it or keep it for practice.
 
 
+## ✔ Final Deliverables Checklist
 
+- Explanations for all tasks  
+- AWS screenshots added inside each folder  
+- Terraform/CloudFormation code added  
+- Architecture diagram uploaded (Task 5)  
+- Repository organized by question  
+
+
+If you want, I can also:
+
+Auto-generate Terraform boilerplate for each folder  
+Write full explanations for each task  
+Generate a prettier README with emojis and table of contents  
