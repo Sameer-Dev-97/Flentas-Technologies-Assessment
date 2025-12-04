@@ -36,9 +36,6 @@ Contains:
 - CloudWatch billing alarm (₹100)  
 - Free Tier usage alerts  
 - Explanation of AWS cost monitoring  
-- Screenshots  
-
-
 
 If you want, I can also:
 
